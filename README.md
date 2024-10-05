@@ -54,7 +54,7 @@ python YOLO10_and_PaaddleOCR.py
 5. The detected text is displayed on the video frame.
 
 ## License
-This project is licensed under the [MIT License]((https://github.com/AmmarMohamed0/RealTimeOCR/blob/main/LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## Acknowledgements
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
